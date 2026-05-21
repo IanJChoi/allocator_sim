@@ -1,4 +1,4 @@
-# Allocator Simulator
+# Allocator Simulato
 
 A terminal-based memory allocator simulator that visualizes heap layout changes step by step.
 This program is designed to help understand how a typical implicit free-list allocator works
@@ -48,7 +48,7 @@ padding | prologue | free block | epilogue
 
 ## Build
 
-```bash
+
 make
 ```
 
