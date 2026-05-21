@@ -48,7 +48,7 @@ padding | prologue | free block | epilogue
 
 ## Build
 
-
+```bash
 make
 ```
 
